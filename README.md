@@ -4,7 +4,7 @@
 
 <p>This project showcases certain fundamentals of React such as components, hooks, props, and state.</p>
 
-<p>The main driver behind this app is the interaction with the Github API.</p>
+<p>The main driver behind this app is the interaction with Github APIs.</p>
 
 <h2>Relevant features</h2>
 
