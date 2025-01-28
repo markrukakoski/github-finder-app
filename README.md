@@ -4,7 +4,7 @@
 
 <p>This project showcases certain fundamentals of React such as components, hooks, props, and state.</p>
 
-<p>The main driver behind this app is the interaction with Github APIs.</p>
+<p>The driver behind this app is the interaction with Github APIs. The main feature of this app involves searching users on Github, and displays their information and vital project stats.</p>
 
 <p>Live demo: https://github-finder-app-liard.vercel.app/</p>
 
